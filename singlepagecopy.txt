@@ -1,10 +1,10 @@
 
 - What is The Bitcoin Cash Fund:
-The Bitcoin Cash Fund is an initiative being set up to fund marketing efforts aimed at increasing awareness, adoption and use of Bitcoin Cash.
+The Bitcoin Cash Fund is a community-driven initiative to fund marketing and educational material aimed at increasing awareness and use of Bitcoin Cash.
 
 
 - What is Bitcoin Cash:
-Bitcoin Cash is a hard forked version of the Bitcoin blockchain featuring larger blocks, a new robust Difficulty Adjustment Algorithm, and removes controversial features like Segregated Witness and Replace-By-Fee. For more information, visit the website here: https://www.bitcoincash.org
+Bitcoin Cash is the result of a minority hard fork (or network upgrade) of Bitcoin that occured on August 1st 2017. It features larger blocks, a new robust Difficulty Adjustment Algorithm, and the removal of controversial features like Segregated Witness and Replace-By-Fee. Where Bitcoin aims to be primarily a store of value, Bitcoin Cash's vision is to also become a robust and secure high-volume settlement network. For more information, visit the website here: https://www.bitcoincash.org
 
 We believe Bitcoin Cash is the cryptocurrency that most closely matches the Bitcoin Satoshi Nakamoto originally designed, with on-chain scaling, reliably low fees and speedy confirmation times. Bitcoin Cash is simply the way Bitcoin used to work from 2009 up until the blocks became full in late 2016.
 
